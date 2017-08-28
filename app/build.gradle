@@ -30,4 +30,5 @@ dependencies {
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
     implementation 'org.jetbrains.anko:anko-commons:0.10.1'
     implementation 'com.squareup.okhttp3:okhttp:3.8.1'
+    implementation 'com.github.franmontiel:PersistentCookieJar:v1.0.1'
 }
